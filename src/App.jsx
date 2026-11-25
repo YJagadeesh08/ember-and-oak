@@ -131,7 +131,7 @@ function App() {
           </div>
           <a
             className="primary-button"
-            href="https://wa.me/9194413507?text=Hello%2C%20I%20would%20like%20to%20reserve%20a%20table%20at%20Ember%20%26%20Oak."
+            href="https://wa.me/919441350739?text=Hello%2C%20I%20would%20like%20to%20reserve%20a%20table%20at%20Ember%20%26%20Oak."
             target="_blank"
             rel="noreferrer"
           >
